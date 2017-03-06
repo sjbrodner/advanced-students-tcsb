@@ -28,7 +28,7 @@ public class PalindromeFinder {
 			System.out.println("is palindrome: " + p.isPalindrome(test));
 			System.out.println("is in set: " + s.contains(test));
 		
-		
+		}
     }
 
 }
